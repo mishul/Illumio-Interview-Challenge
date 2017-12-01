@@ -8,3 +8,5 @@ b.	I chose to concatenate the direction and the protocol strings to one – and 
 c.	Any refinements I think would be in optimizing how fast we can search which port numbers and IP Addresses are valid. Keeping additional dictionaries to keep track of ranges of valid IP's and ports is a possible solution for this. 
 
 
+-THE CSV file uploaded rules I applied for testing. The code reads in the put as "firewall.csv"
+- There are also certain examples in the main command, these can be commented off for more testing.
